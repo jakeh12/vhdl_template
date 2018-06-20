@@ -1,5 +1,5 @@
-# simulation stuff
-sim/
+# compiled vhdl
+tmp/
 
 # apple specific files
 .DS_Store
