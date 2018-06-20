@@ -1,0 +1,8 @@
+VHDL Simulation on MacOS and Linux
+---
+
+1. Download and install GHDL: https://github.com/ghdl/ghdl/releases
+2. Download and install Scansion: http://www.logicpoet.com/scansion/
+3. Run make
+4. Enjoy
+
